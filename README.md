@@ -21,7 +21,7 @@ Download any of the zip files (NALABS1.0.zip is the latest version)
 ![image](https://user-images.githubusercontent.com/7644735/145831728-ba72ab06-59cd-4a10-ac89-1015f9aa4c68.png)
 
 If you use the other older versions you should:
-1. Open NALABS_RCM.exe (Win10 or Win7 folders)
-2. First change some settings. Choose Edit/Settings menu tab. In the Excel view you should choose the REQ ID and Text column in the requirement excel document.
+1. Copy the contents of NALABS 1.0.zip in a separate folder and run setup.exe
+2. Run NALABS.application. First change some settings. Choose Edit/Settings menu tab. In the Excel view you should choose the REQ ID and Text column in the requirement excel document.
 3. To open a requirement excel file choose the File/Open menu tab
 4. When opening a new excel document, please remove the Settings.xml in the Settings folder located in the same place as NALABS_RCM.exe. This needs to be done since the program might crash due to a bug.
